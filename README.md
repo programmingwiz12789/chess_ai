@@ -1,1 +1,2 @@
-# chess_ai
+# Chess AI
+Chess AI in VB.NET
